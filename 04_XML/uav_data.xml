@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <uav1>
+    <uwb>
+      <data0>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data0>
+      <data1>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data1>
+      <data2>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data2>
+      <data3>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data3>
+      <data4>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data4>
+      <data5>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data5>
+      <data6>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data6>
+      <data7>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data7>
+      <data8>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data8>
+      <data9>
+        <Distance to B>20.0</Distance to B>
+        <Distance to C>20.0</Distance to C>
+        <Distance to D>20.0</Distance to D>
+      </data9>
+    </uwb>
+    <vio />
+    <vd />
+    <lc />
+  </uav1>
+  <uav2>
+    <uwb />
+    <vio />
+    <vd />
+    <lc />
+  </uav2>
+  <uav3>
+    <uwb />
+    <vio />
+    <vd />
+    <lc />
+  </uav3>
+  <uav4>
+    <uwb />
+    <vio />
+    <vd />
+    <lc />
+  </uav4>
+</root>

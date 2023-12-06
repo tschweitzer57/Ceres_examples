@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<order>
+  <customer name="John Doe" address="123 Main St" />
+  <order date="2020-01-01" id="12345">
+    <items>
+      <item code="A100" description="Product A" quantity="5" />
+      <item code="B200" description="Product B" quantity="10" />
+    </items>
+  </order>
+</order>
